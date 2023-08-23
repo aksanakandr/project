@@ -1,0 +1,14 @@
+enter system
+start test1
+current url https://www.saucedemo.com/
+click email
+click password
+click login  button
+Good value word
+current url https://www.saucedemo.com/inventory.html
+click product1
+click cart
+current url https://www.saucedemo.com/cart.html
+click check button
+finish test1
+exit  system 

@@ -1,0 +1,11 @@
+Star test
+current url https://www.saucedemo.com/
+click email
+click password
+click login  button
+Good value word
+current url https://www.saucedemo.com/inventory.html
+click menu
+click link
+Good value url
+Finish test
